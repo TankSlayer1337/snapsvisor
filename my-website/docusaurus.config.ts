@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Snapsvisor',
-  tagline: ' Mustangsommar',
+  title: 'Mustangsommar',
+  tagline: ' Snapsvisor',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -58,7 +58,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Snapsvisor',
         },
         {
           href: 'https://github.com/TankSlayer1337/snapsvisor',
