@@ -1,0 +1,8 @@
+# Hell and gore
+*Mel: Helan går*
+
+Hell and gore, Chung hop father Allan Allan ley  
+Hell and gore, Chung hop father Allan ley  
+Oh handsome in the hell and tar  
+and hell are in the half and four  
+Hell and gore, Chung hop father Allan ley  
