@@ -1,5 +1,5 @@
 # snapsvisor
-https://TankSlayer1337.snapsvisor.github.io
+https://TankSlayer1337.github.io/snapsvisor
 
 ## Deploy
 https://docusaurus.io/docs/deployment#deploy
