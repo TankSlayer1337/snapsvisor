@@ -1,5 +1,5 @@
 # Hell and gore
-*Mel: Helan går*
+*Melodi: Helan går*
 
 Hell and gore, Chung hop father Allan Allan ley  
 Hell and gore, Chung hop father Allan ley  

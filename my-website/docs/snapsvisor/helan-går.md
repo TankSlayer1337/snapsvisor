@@ -1,5 +1,5 @@
 # Helan går
-*Mel: Helan går*
+*Melodi: Helan går*
 
 Helan går,  
 sjung hopp faderallan lallan lej,  

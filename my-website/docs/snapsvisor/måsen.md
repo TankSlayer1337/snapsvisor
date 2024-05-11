@@ -1,5 +1,5 @@
 # Måsen
-*Mel: När månen vandrar sin tysta bana*  
+*Melodi: När månen vandrar sin tysta bana*  
 
 Det satt en mås på en klyvarbom  
 och tom i krävan var kräket  
