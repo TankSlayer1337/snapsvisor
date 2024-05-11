@@ -55,13 +55,6 @@ const config: Config = {
         alt: 'Mustangsommar Logo',
         src: 'img/logo.svg',
       },
-      items: [
-        {
-          href: 'https://github.com/TankSlayer1337/snapsvisor',
-          label: 'GitHub',
-          position: 'right',
-        },
-      ],
     },
     prism: {
       theme: prismThemes.github,
