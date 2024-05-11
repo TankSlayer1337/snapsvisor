@@ -1,3 +1,7 @@
+---
+slug: /
+---
+
 # 12 nubbar
 *Melodi: 12 days of Christmas*
 

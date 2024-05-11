@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://TankSlayer1337.snapsvisor.github.io',
+  url: 'https://TankSlayer1337.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/snapsvisor/',
@@ -35,8 +35,10 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebars.ts',
+          // sidebarPath: './sidebars.ts',
+          routeBasePath: '/'
         },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -54,12 +56,6 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Snapsvisor',
-        },
         {
           href: 'https://github.com/TankSlayer1337/snapsvisor',
           label: 'GitHub',
