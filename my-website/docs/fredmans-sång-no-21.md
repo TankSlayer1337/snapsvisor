@@ -24,7 +24,10 @@ med band och stjärnor på din rock,
 ren snickarn kistan färdig gjort  
 och hyvlar på dess lock!  
 
-Tycker du...  
+Tycker du att graven är för djup,  
+nå, välan så tag dig då en sup,  
+tag dig sen dito en, dito två, dito tre,  
+så dör du nöjdare!  
 
 Men du, som med en trumpen min  
 bland riglar, galler, järn och lås  
@@ -35,7 +38,10 @@ buteljer, speglar och pokal,
 bjud nu godnatt, drick ur ditt glas  
 och hälsa din rival!  
 
-Tycker du...  
+Tycker du att graven är för djup,  
+nå, välan så tag dig då en sup,  
+tag dig sen dito en, dito två, dito tre,  
+så dör du nöjdare!  
 
 Och du, som under titlars klang  
 din tiggarstav förgyllt vart år,  
@@ -46,7 +52,10 @@ fördömer vaggan, som dig välvt
 och ändå dagligt är plakat  
 till glasets sista hälft!  
 
-Tycker du...  
+Tycker du att graven är för djup,  
+nå, välan så tag dig då en sup,  
+tag dig sen dito en, dito två, dito tre,  
+så dör du nöjdare!  
 
 Du, som vid Martis fältbasun  
 i blodig skjorta sträckt ditt steg,  
@@ -57,7 +66,10 @@ vid templets genljud reser dig,
 som rister huvud, lärd och klok,  
 och för mot avgrund krig.  
 
-Tycker du...  
+Tycker du att graven är för djup,  
+nå, välan så tag dig då en sup,  
+tag dig sen dito en, dito två, dito tre,  
+så dör du nöjdare!  
 
 Och du, som med en ärlig min  
 plär dina vänner häda jämt  
@@ -68,7 +80,10 @@ fästän ur deras flaskor, du,
 du väl kan slicka dina fem,  
 vad svarar du väl nu?  
 
-Tycker du...  
+Tycker du att graven är för djup,  
+nå, välan så tag dig då en sup,  
+tag dig sen dito en, dito två, dito tre,  
+så dör du nöjdare!  
 
 Men du, som till din återfärd,  
 ifrån det du till bordet gick,  
@@ -79,7 +94,10 @@ kör honom med sitt anhang ut
 och sen med en ovänlig min  
 ryck remmar'n ur hans trut!  
 
-Tycker du...  
+Tycker du att graven är för djup,  
+nå, välan så tag dig då en sup,  
+tag dig sen dito en, dito två, dito tre,  
+så dör du nöjdare!  
 
 Säg, är du nöjd, min grannen, säg!  
 Så prisa värden nu till slut!  
@@ -90,4 +108,7 @@ för vår värdinna bugom oss,
 och halkom sen i graven fritt  
 vid aftonstjärnans bloss!  
 
-Tycker du...  
+Tycker du att graven är för djup,  
+nå, välan så tag dig då en sup,  
+tag dig sen dito en, dito två, dito tre,  
+så dör du nöjdare!  
