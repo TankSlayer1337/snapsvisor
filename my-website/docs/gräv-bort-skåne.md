@@ -9,4 +9,4 @@ men potatisen den tas om hand :||
 Uti Skåne fanns de stora fälten  
 där vi odlade vårt brännevin.  
 ||: Men när vi nu har grävt det landet hädan  
-får man bäl bli full på terpentin. :||  
+får man väl bli full på terpentin. :||  
