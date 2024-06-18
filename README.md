@@ -7,6 +7,7 @@
 TLDR:  
 Bash  
 GIT_USER=<GITHUB_USERNAME> yarn deploy
+GIT_USER=TankSlayer1337 yarn deploy
 
 ## Docs-only mode
 This site only has documents and has been setup as described [here](https://docusaurus.io/docs/next/docs-introduction#docs-only-mode).
