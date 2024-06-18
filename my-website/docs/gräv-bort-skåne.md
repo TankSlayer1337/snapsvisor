@@ -1,3 +1,7 @@
+---
+slug: /
+---
+
 # Gräv bort Skåne
 *Melodi: Katjuschka (Rysk folksång)*
 
