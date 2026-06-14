@@ -3,7 +3,7 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Mustangsommar',
+  title: 'Tebysommar',
   tagline: ' Snapsvisor',
   favicon: 'img/favicon.ico',
 
@@ -54,9 +54,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/mustangsommar.jpg',
     navbar: {
-      title: 'Mustangsommar',
+      title: 'Tebysommar',
       logo: {
-        alt: 'Mustangsommar Logo',
+        alt: 'Tebysommar Logo',
         src: 'img/logo.svg',
       },
     },
